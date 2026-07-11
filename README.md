@@ -1,15 +1,6 @@
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Jaberofficial/Jaberofficial/main/banner.png" width="100%" alt="GitHub Banner">
 </p>
-
-<p align="center">
-  <img src="banner.png" width="100%">
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Md.+Jaber+Hossain+Mozumder;Full+Stack+Web+Developer;PHP+Laravel+Developer;Open+to+Work" />
-</p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Md.+Jaber+Hossain+Mozumder;Full+Stack+Web+Developer;PHP+Laravel+Developer;Open+to+Work" />
@@ -44,14 +35,14 @@ Passionate about building responsive, modern, and user-friendly web applications
 - 💻 Full Stack Web Developer
 - 🌱 Currently learning Advanced Laravel & REST API Development
 - ⚡ Passionate about writing clean and maintainable code
-- 📍 Based in Bangladesh
+- 📍 Chattogram, Bangladesh
 - 💼 Open to Frontend & Full Stack Developer Opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,git,github,vscode" />
 </p>
 
@@ -60,12 +51,15 @@ Passionate about building responsive, modern, and user-friendly web applications
 ## 📂 Featured Projects
 
 ### 🌐 Full Stack Portfolio
-🔗 https://jaber-full-stack-portfolio.vercel.app
+
+[🌍 Live Demo](https://jaber-full-stack-portfolio.vercel.app) | [💻 Source Code](https://github.com/Jaberofficial/jaber-full-stack-web-dev-portfolio)
 
 ### 🛒 Laravel Website
+
 PHP Laravel based responsive website.
 
 ### 📚 PHP CRUD Application
+
 CRUD system with PHP & MySQL.
 
 ---
@@ -73,35 +67,33 @@ CRUD system with PHP & MySQL.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaberofficial&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jaberofficial&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaberofficial&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaberofficial&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaberofficial&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaberofficial&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
-
+<p align="center">
 <a href="https://www.linkedin.com/in/jaberofficial/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
 <a href="https://github.com/Jaberofficial">
-<img src="https://skillicons.dev/icons?i=github" width="45" />
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
 <a href="mailto:jaberofficial33@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
 </a>
-
 </p>
 
 ---
@@ -116,8 +108,8 @@ CRUD system with PHP & MySQL.
 
 ### 📧 Email
 
-jaberofficial33@gmail.com
+📩 jaberofficial33@gmail.com
 
 ---
 
-⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+⭐ **Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.**
