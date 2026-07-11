@@ -1,4 +1,17 @@
 <p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Md.+Jaber+Hossain+Mozumder;Full+Stack+Web+Developer;PHP+Laravel+Developer;Open+to+Work" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Md.+Jaber+Hossain+Mozumder;Full+Stack+Web+Developer;PHP+Laravel+Developer;Open+to+Work" />
 </p>
 
