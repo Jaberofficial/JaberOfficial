@@ -81,15 +81,15 @@ CRUD system with PHP & MySQL.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jaberofficial&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Jaberofficial&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaberofficial&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Jaberofficial&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaberofficial&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jaberofficial&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
