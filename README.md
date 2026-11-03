@@ -81,7 +81,7 @@ CRUD system with PHP & MySQL.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaberofficial&show_icons=true&theme=tokyonight&hide_border=true" width="90%" />
+  <img src="./profile/stats.svg" width="90%" />
 </p>
 
 <p align="center">
@@ -89,11 +89,10 @@ CRUD system with PHP & MySQL.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaberofficial&layout=compact&theme=tokyonight&hide_border=true" width="90%" />
+  <img src="./profile/top-langs.svg" width="90%" />
 </p>
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="center">
